@@ -1,0 +1,13 @@
+1. autoprefixer 
+
+Jeśli plik css trzymamy w katalogu css, koniecznie wejść do niego i wykonać komendę :)
+
+autoprefixer-cli -o style.prefixed.css style.css
+
+2. nu-html-checker
+
+node_modules/.bin/nu-html-checker index.html
+
+last result:
+index.html
+No validation errors found!

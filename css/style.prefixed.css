@@ -1,0 +1,15 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h4 {
+    text-transform: uppercase;
+}
+
+.fa-guitar {
+    padding-left: 10px;
+}
+
+p {
+    width: 20vw;
+}

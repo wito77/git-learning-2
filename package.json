@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/wito77/git-learning-2#readme",
   "devDependencies": {
-    "browser-sync": "^2.26.7"
+    "browser-sync": "^2.26.7",
+    "nu-html-checker": "^0.1.0"
+  },
+  "dependencies": {
+    "autoprefixer-cli": "^1.0.0"
   }
 }
